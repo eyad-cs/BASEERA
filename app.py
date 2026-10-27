@@ -9,7 +9,7 @@ app = FastAPI()
 API_URL = "https://baseerah.duckdns.org/webhook/parts-search"
 API_KEY = 'X9p#vL2$mPq7!kR4'
 CHAT_API_URL = "https://dilute-uncheck-eastward.ngrok-free.dev/extract"
-ANALYSIS_API_URL = "http://84.13.140.2:8000/analyze-damage"
+ANALYSIS_API_URL = "http://84.13.140.2:8001/upload-damage"
 
 cars = {
     "Toyota": {"Camry": "كامري", "Corolla": "كورولا", "Yaris": "يارس"},
